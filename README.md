@@ -1,2 +1,4 @@
-# signal-relay-notes-wlhq9s
-Migration notes and scratch checklists for the signal relay project
+# Signal Relay — working notes
+
+Scratch notes and migration breadcrumbs for the signal relay project. This is
+not the release repository.
